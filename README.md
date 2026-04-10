@@ -1,4 +1,52 @@
+# 🐾 Pet Adoption Landing Page
 
+A modern, fully responsive landing page built using **HTML, CSS, and Bootstrap**, featuring **Bootstrap SVG icons** for a clean and scalable user interface. This project highlights strong front-end fundamentals, responsive design principles, and efficient UI development using Bootstrap.
+
+##  Features
+
+*  **Fully Responsive** – Optimized for mobile, tablet, and desktop
+*  **Clean & Modern UI** – Gradient backgrounds and visually appealing layout
+*  **Bootstrap 5 Framework** – Fast and structured development using grid system
+*  **Reusable Components** – Organized and maintainable code
+*  **Bootstrap SVG Icons** – Lightweight, scalable, and performance-friendly icons
+*  **Call-to-Action Sections** – Engaging UI elements to improve interaction
+
+## Tech Stack
+
+* **HTML5** – Page structure
+* **CSS3** – Styling and customization
+* **Bootstrap 5** – Layout and responsiveness
+* **Bootstrap SVG Icons** – UI iconography
+
+## Project Structure
+
+project-folder/
+│
+├── index.html
+├── css/
+│   └── styles.css
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
+
+##  Key Highlights
+
+* Built with a **mobile-first approach** using Bootstrap
+* Designed a **hero section with gradient background**
+* Used **Bootstrap grid system** for layout consistency
+* Integrated **SVG icons for better scalability and performance**
+* Focused on **clean UI and user-friendly navigation
+## Contributing
+
+Contributions are welcome!
+
+1. Fork the repo
+2. Create a new branch
+3. Commit changes
+4. Open a pull request
+
+ If you like this project, give it a star!
 
 ## SVGs:
 
